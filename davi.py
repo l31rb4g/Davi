@@ -47,7 +47,6 @@ class Davi():
 
         self.document_root = os.path.dirname(os.path.abspath(__file__))
         print('Directory: ' + str(self.document_root))
-        print('Port: ' + str(self.port))
         print('URL: http://localhost:' + str(self.port))
         print('\nDavi is up and running!\n')
 
