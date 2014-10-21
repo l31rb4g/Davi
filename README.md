@@ -12,7 +12,7 @@ Windows 7 x86: https://github.com/l31rb4g/Davi/releases/download/0.4.1/davi0.4.1
 
 How to use
 -------------------
-Just put davi.exe in the directory you want and run it. the default server port is 9000. The default URL is http://localhost:9000
+Just put davi.exe in the directory you want and run it. The default URL is http://localhost:9000
 
 
 Features
