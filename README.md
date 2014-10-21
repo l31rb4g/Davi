@@ -5,7 +5,7 @@ Davi is a portable micro HTTP server.
 
 Download
 -------------------
-Current stable version: 0.4.0
+Current stable version: 0.4.1
 
 Windows 7 x86: https://github.com/l31rb4g/Davi/releases/download/0.4.0/davi0.4.0-win7-x86.exe
 
