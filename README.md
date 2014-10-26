@@ -12,9 +12,9 @@ Download
 -------------------
 Current stable version: 0.4.1
 
-Windows 7 x86: https://github.com/l31rb4g/Davi/releases/download/0.4.1/davi0.4.1-win7-x86.exe
+Windows 7: https://github.com/l31rb4g/Davi/releases/download/0.4.1/davi0.4.1-win7-x86.exe
 
-Debian 7 x86: https://github.com/l31rb4g/Davi/releases/download/0.4.1/davi0.4.1-debian7-x86
+Debian 7: https://github.com/l31rb4g/Davi/releases/download/0.4.1/davi0.4.1-debian7-x86
 
 
 Features
